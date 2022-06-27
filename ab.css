@@ -1,0 +1,205 @@
+@import https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css ;
+.footer{
+width: 100%;
+text-align: center;
+padding: 30px 0;
+}
+
+.footer h4{
+margin-bottom: 25px;
+margin-top: 20px;
+font-weight: 600;
+}
+
+.icons .fab{
+color: #f44336;
+margin: 0 13px;
+cursor: pointer;
+padding: 18px 0;
+}
+
+.icons .fas{
+color: #f44336;
+margin: 0 13px;
+cursor: pointer;
+padding: 18px 0;
+}
+
+
+.comment-box{
+width: 80%;
+border: 1px solid #ccc;
+margin: 50px auto;
+padding: 10px 20px;
+}
+
+.comment-box h3{
+text-align: left;
+}
+
+.comment-form input, .comment-form textarea{
+width: 100%;
+padding: 10px;
+margin: 15px 0;
+box-sizing: border-box;
+border: none;
+outline: none;
+background: #f0f0f0;
+}
+
+.comment-form button{
+margin: 10px 0;
+}
+
+.location{
+width: 80%;
+margin: auto;
+padding: 80px 0;
+}
+
+.location iframe{
+width: 100%;
+}
+.contact-us{
+width: 80%;
+margin: auto;
+}
+
+.contact-col{
+flex-basis: 20%;
+margin-bottom: 30px;
+}
+
+.contact-col div{
+display: flex;
+align-items: center;
+margin-bottom: 40px;
+}
+
+.contact-col div .fas{
+font-size: 28px;
+color: red;
+margin: 10px;
+margin-right: 30px;
+}
+
+.contact-col div .far{
+font-size: 28px;
+color: red;
+margin: 10px;
+margin-right: 30px;
+}
+
+.contact-col input, .contact-col textarea{
+width: 100%;
+padding: 10px;
+margin-bottom: 17px;
+outline: none;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+.far{
+display: block;
+color: #fff;
+margin: 10px;
+cursor: pointer;
+}
+.fas{
+background-color: transparent;
+display: block;
+color: #fff;
+margin: 10px;
+font-size: 22px;
+cursor: pointer;
+}
+
+.card{
+width: 200px;
+height: 200px;
+box-shadow: 0 0 20px #666666;
+background: transparent;
+border-radius: 10px;
+transition: 1s;
+}
+
+.content{
+position: absolute;
+width: 200px;
+height: 200px;
+text-align: center;
+}
+
+.content div{
+margin-top: 80px;
+}
+
+.image{
+position: absolute;
+width: 200px;
+height: 240px;
+transition: 1s;
+background: #ccccff;
+border-radius: 10px;
+}
+
+.image img{
+position: absolute;
+width: 200px;
+height: 240px;
+border-radius: 10px;
+}
+
+.card:hover .image{
+transform: scale(0.7) translateY(-200px);
+box-shadow: 0 0 20px rgba(0,0,0,.9);
+}
+#footer .twitter {
+  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+#footer .linkedin {
+  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+  background-repeat: no-repeat;
+  background-position: -78px 0;
+}
+#footer .facebook {
+  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+  background-repeat: no-repeat;
+  background-position: -233px 0;
+}
+#footer .skype {
+  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+  background-repeat: no-repeat;
+  background-position: -156px 0;
+}
+#footer .flickr {
+  background-image: url(http://manstyle.coralixthemes.com/dark/img/dark/icons/footer-icons.png);
+  background-repeat: no-repeat;
+  background-position: -310px 0;
+}
+#footer a {
+  height: 56px;
+  width: 56px;
+  display: inline-block;
+  margin: 10px;
+}
+#footer a:hover {
+  transition: all 0.3s ease-out;
+  -webkit-transition: all 0.3s ease-out;
+}
+#footer .twitter:hover {
+  background-position: 0 -56px;
+}
+#footer .facebook:hover {
+  background-position: -233px -56px;
+}
+#footer .skype:hover {
+  background-position: -156px -56px;
+}
+#footer .linkedin:hover {
+  background-position: -78px -56px;
+}
+#footer .flickr:hover {
+  background-position: -310px -56px;
+}

@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.jaipurbiofertilizer.com/img/icon/favicon-32x32.png">
+<title>weed mangement</title>
+<link href="https://www.jaipurbiofertilizer.com/css/bootstrap.css" rel="stylesheet">
+<link href="https://www.jaipurbiofertilizer.com/css/style.css" rel="stylesheet">
+<link href="https://www.jaipurbiofertilizer.com/css/responsive.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+<link href="https://www.jaipurbiofertilizer.com/css/owl.css" rel="stylesheet">
+<link href="https://www.jaipurbiofertilizer.com/css/lightbox.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Varela+Round&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,600,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+  <header>
+  <section class="menu">
+    <div class="container">
+      <div class="top-logo-menu">
+        <div class="menu-bg-top">
+          <nav class="navbar navbar-expand-lg navbar-static">
+            <a class="navbar-brand"><img src="images/ico.png"></a>
+            <a class="navbar-brand"><h1 style="color:green;">OFIS</h1></a>
+            <button class="navbar-toggler" type="button" data-toggle="slide-collapse" data-target="#navbars" aria-controls="navbars" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>            
+            <div class="collapse navbar-collapse" id="navbars"> <a href="#" class="nav-close" data-toggle="slide-collapse" data-target="#navbars"><i class="la la-close"></i></a>       
+              <ul class="navbar-nav ml-auto">
+              <li class="nav-item"> <a class="nav-link" href="ka.html"><span>HOME</span></a> </li>
+        <li  class="nav-item"><a class="nav-link" href="ab.html">PRODUCTS</a></li>
+                            <li class="nav-item"> <a class="nav-link" href="service.html" ><span>ORGANIC FARMING  </span></a>
+                
+                  <ul>
+                           
+                  </ul>
+              </li>             
+              <li class="nav-item"> <a class="nav-link" href="contact.html">CONTACT US</a> </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </section>
+</header>
+
+<section class="i-banner">
+
+  <div class="container-fluid">
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-12 col-12">
+
+          <h1><span>ORGANIC FARMING</span></h1>
+
+          <div class="breadcrumb-banner">
+
+            <nav aria-label="breadcrumb">
+
+              <ol class="breadcrumb">
+
+                <li class="breadcrumb-item"><a href="ka.html">HOME</a></li>
+
+                <li class="breadcrumb-item active" aria-current="page">ORGANIC FARMING</li>
+
+              </ol>
+
+            </nav>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+</section>
+
+
+<section class="page">
+
+  <div class="container-fluid">
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-md-12 col-12">
+
+          <div class="organic-heading">
+
+            <div class="heading-s">
+
+              <h2><span>ORGANIC FARMING METHODS</span></h2>
+              <h3><span>weed and pests</span></h3>
+
+            </div>
+
+          </div>
+
+          <div class="about-fertilizers ">
+
+            <div class="services-page">
+
+            	<h4></h4>
+
+                <div class="text-left-serv">
+
+<p>In organic farming, chemical herbicides cannot be used. So weeding can be done only manually. Different cultural practices like tillage, flooding, mulching can be used to manage the weeds. Besides, biological (pathogen) method can be used to manage the loss due to weeds. When the ground is fallow, a cover crop can be planted to suppress weeds and build soil quality. Weeds growth can also be limited by using drip irrigation whenever possible, which restricts the distribution of water to the plant line. </p>
+</div>
+
+                </div>
+
+                <div class="right-img">
+
+                	<img src="images/og4.jpg" width="400" height="400">
+
+                </div>
+
+            </div>
+
+            <div class="services-page">
+<p>Integrated Pest Management (IPM) is an environmentally conscious approach to managing insects, weeds and disease. By focusing on natural processes, growers use pest control methods beginning with the least toxic and amplifying the pest control needs gradually if problems persist. The six steps of IPM include</p>
+
+                <div class="potifilo">
+
+         	 <div class="text-left-serv">
+
+
+          		<ul style="margin:0px; padding:0px;">
+<li> 1.) Correct identification of damage and responsible pests</li>
+<li> 2.) Know your pest and plant life cycle and biology.</li>
+<li> 3.) Monitor and sample for pest population</li>
+</ul>
+
+          </div>
+            	
+
+                <div class="right-img">
+
+                	<img src="images/og7.jpg">
+
+                </div>
+
+                <div class="text-left-serv">
+
+           
+
+                	<p>A biofertilizer is a substance which contains living micro-organisms which, when applied to seeds, plant surfaces, or soil, colonize the rhizosphere or the interior of the plant and promotes growth by increasing the supply or availability of primary nutrients to the host plant.[1] Biofertilizers add nutrients through the natural processes of nitrogen fixation, solubilizing phosphorus, and stimulating plant growth through the synthesis of growth-promoting substances. The micro-organisms in biofertilizers restore the soil's natural nutrient cycle and build soil organic matter. Through the use of biofertilizers, healthy plants can be grown, while enhancing the sustainability and the health of the soil. Biofertilizers can be expected to reduce the use of synthetic fertilizers and pesticides, but they are not yet able to replace their use. Since they play several roles, a preferred scientific term for such beneficial bacteria is "plant-growth promoting rhizobacteria" (PGPR).</p>
+
+</div>
+</div>
+<p>OFIS encourages farmers to follow the principal of conservation agriculture in order to minimize soil disturbance, promoting intercropping and crop rotations and developing a permanent soil cover to minimize the need for chemical fertilizers.</p>
+</div>
+            
+
+               
+
+          </div>
+
+                </div>
+
+                <p>With the increase in population our compulsion would be not only to stabilize agricultural production. The scientists have realized that the ‘Green Revolution’ with high input use has reached a plateau and is now sustained with diminishing return of falling dividends. Thus, a natural balance needs to be maintained at all cost for existence of life and property. In this way OFRS is helping to contribute to meaningful socio-economic and ecologically sustainable development opportunities while improving the income and living conditions of farmers. Inputs commonly used in Organic Agriculture are:</p>
+
+                
+
+                
+<li><a >Plant growth promoting rhizobacteria : Various bacteria that promote plant growth are collectively called plant growth promoting rhizobacteria (PGPR). PGPR are thought to improve plant growth by colonizing the root system and pre empting the establishment of suppressing deleterious rhizosphere microorganisms on the roots. Large populations of bacteria established in planting material and roots become a partial sink for nutrients in the rhizosphere thus reducing the amount of C and N available to stimulate spores of fungal pathogens or for subsequent colonization of the root. PGPR belong to several genera viz.Actinoplanes, Azotobacter, Bacillus, Pseudomonas, Rhizobium, Bradyrhizobium, Streptomyces, Xanthomonas etc. Bacillus spp. act as biocontrol agent because their endospores are tolerant to heat and desiccation. Seed treatment with B.subtilis is reported to increase yield of carrot by 48%, oats by 33% and groundnut upto 37%. </a></li>
+<li><a >Phosphorus-solubilizing bacteria (PSB): Phosphorus is the vital nutrient next to nitrogen for plants and microorganisms. This element is necessary for the nodulation by Rhizobium and even to nitrogen fixers, Azolla and BGA. The phospho microorganism mainly bacteria and fungi make available insoluble phosphorus to the plants. It can increase crop yield up to 200-500 kg/ha and thus 30 to 50 kg Super Phosphate can be saved. Most predominant phosphorus-solubilizing bacteria (PSB) belong to the genera Bacillus and Pseudomonas. At present PSB is most widely used biofertilizer in India. PSB can reduce the P requirement of crop up to 25%. </a></li>
+<li><a >Mycorrhizal fungi: Root-colonizing mycorrhizal fungi increase tolerance of heavy metal contamination and drought. Mycorrhizal fungi improve soil quality also by having a direct influence on soil aggregation and therefore aeration and water dynamics. An interesting potential of this fungi is its ability to allow plant access to nutrient sources which are generally unavailable to the </a></li>
+
+
+
+
+
+
+
+
+                </ul>
+
+          </div>
+
+          <p><strong>OFIS</strong> also provides assistance to farmers to develop 100% Certified Organic Farms. The objective of the programme is to provide access to high quality Organic Inputs and Training Manuals on Organic Agriculture. </p>
+
+            </div>
+
+            
+</div>
+          </div>  
+    </div>
+
+  </div>
+
+</section>
+</body>
+</html>
